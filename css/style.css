@@ -1008,6 +1008,24 @@ h1, h2, h3, h4, h5, h6, figure {
   color: #000;
 }
 
+#fh5co-footer {
+  background-color: #292828; /* Cinza escuro */
+  color: #fff; /* Texto branco para contraste */
+  padding: 30px 0;
+  text-align: center;
+}
+
+#fh5co-footer a {
+  color: #f8f8f8; /* Links em tom claro */
+  text-decoration: none;
+  margin: 0 10px;
+  transition: color 0.3s ease;
+}
+
+#fh5co-footer a:hover {
+  color: #FF9000; /* Cor verde para hover */
+}
+
 .form-control {
   -webkit-box-shadow: none;
   -moz-box-shadow: none;
